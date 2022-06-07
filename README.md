@@ -12,7 +12,7 @@ More details can be found in our paper, https://ieeexplore.ieee.org/document/916
 
 - `graph_construct.py`: Construct PoI road network from two different resources - Regular road network and PoI dataset
 
-Example PoI network: PoI_Network/NY_es.csv for edge information, PoI_Network/NY_ns.csv for node information
+Example PoI network: `PoI_Network/NY_es.csv` and `PoI_Network/NY_ns.csv` for edge and node information, respectively
 
 Please feel free to contact xuteng@iastate.edu if you are interested in this work. 
 
